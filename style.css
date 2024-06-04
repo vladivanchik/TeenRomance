@@ -16,9 +16,15 @@ h1 {
     align-items: center;
 
 }
-.image-container {
+.image-container_tp {
+    display:flex;
+    justify-content: top;
+    align-items: top;
+    margin-top: auto;
+}
+.image-container_bt {
     display:flex;
     justify-content: bottom;
     align-items: bottom;
-    margin-top: 350px;
+    margin-top: 100px;
 }
