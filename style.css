@@ -3,7 +3,6 @@ body {
 
 }
 h1 {
-    text-align: center;
     margin-left: 350px;
     color:palevioletred;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -13,8 +12,6 @@ h1 {
 .button-container {
     display: block;
     margin-left: 80%;
-    justify-content: center;
-    align-items: center;
 
 }
 .image-container_tp {
